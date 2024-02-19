@@ -1,0 +1,9 @@
+[submodule "libCEED"]
+	path = libCEED
+	url = https://github.com/CEED/libCEED.git
+[submodule "barretenberg"]
+	path = barretenberg
+	url = https://github.com/AztecProtocol/barretenberg
+[submodule "tinygltf"]
+	path = tinygltf
+	url = https://github.com/syoyo/tinygltf
